@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TallerIntent</string>
+    <string name="name">Nombre</string>
+    <string name="pass">Clave</string>
+</resources>
